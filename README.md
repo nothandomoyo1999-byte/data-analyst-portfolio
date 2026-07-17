@@ -1,4 +1,4 @@
-#Data Analyst Portfolio
+#Nothando Moyo Data Analyst Portfolio
 
 Business-focused analytics portfolio covering **Excel, SQL, Power BI, and Python**, built around a real retail case study: measuring and predicting the impact of product bundling on sales, profitability, and customer loyalty for a QSR (chicken) outlet.
 
